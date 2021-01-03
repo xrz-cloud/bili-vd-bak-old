@@ -17,10 +17,15 @@ https://wds.ecsxs.com/2342.html
 
 ## 番剧统计
 连载中：0
-已完结：11
+已完结：13
 ## 下载网盘
 储存库 | 番剧总链接 | 密码
 :-----------: | :-----------: | :-----------:
  天翼云盘        |     https://cloud.189.cn/t/aEJjQ3jQnQ7r    |       4mjs
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
  
+ ## 声明
+ 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
+ 如有侵权，请发送信息至邮箱 1937019695@qq.com ，将于24小时内删除。
+
+ 此文档库仅在coding及github上发布。
