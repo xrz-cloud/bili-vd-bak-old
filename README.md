@@ -1,3 +1,5 @@
+## 公告
+因处在考试周，更新可能较慢。  
 ![图片](https://xrzyun.coding.net/api/project/7790293/files/22539397/imagePreview)
 ## 导航
 > [跳转本文更新链接](https://wds.ecsxs.com/2342.html)(防删专用)
@@ -20,4 +22,4 @@ https://wds.ecsxs.com/2342.html
 :-----------: | :-----------: | :-----------:
  天翼云盘        |     https://cloud.189.cn/t/aEJjQ3jQnQ7r    |       4mjs
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
- 
+ GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | -

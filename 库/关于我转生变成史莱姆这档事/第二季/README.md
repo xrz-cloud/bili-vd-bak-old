@@ -26,3 +26,7 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/ttigrs-2-24.9.
 ```
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/ttigrs-2-24.9.xml
 ```
+
+### 25
+提示：直链见总库，详情见日志，持续上传中。  
+**资源码**:`22806372`

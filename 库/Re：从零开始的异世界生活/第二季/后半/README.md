@@ -8,7 +8,6 @@
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28232073)  
 Re：从零开始的异世界生活 第二季 后半  
-![番剧图片](https://i0.hdslb.com/bfs/bangumi/image/4f3edbede7fc0bdb52842075cf8faaa1c5953eaa.png@619w_825h.webp )  
 小说改 穿越 奇幻  
 2021年1月6日开播  
 简介：我一定会拯救你。在打倒了魔女教大罪司教「怠惰」担当——培提其乌斯·罗曼尼康帝之后，菜月昴和爱蜜莉雅又得以重新开始。克服了艰难的诀别，两人终于和解，然而这只是新一轮风波的序幕。超乎想象的绝境危机，接踵而至的残酷现实。少年将再次直面残酷的命运。  
@@ -28,3 +27,5 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/re0-2-14.flv
 ```
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/re0-2-14.xml
 ```
+## 15
+**FileID**:`22822987`
