@@ -15,31 +15,33 @@
 - [x] 天翼云
 - [x] OneDrive
 - [x] Github Releases
-- [x] Coding 制品库
+- [ ] Coding 制品库
 - [x] Coding Issues
 
-**视频**   [点击下载](https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-1)
+**视频**   [点击下载](https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/wylsrt-3-1.flv)  
+**FileID**:`22448116`  
 ```
-https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-1
+https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/wylsrt-3-1.flv
 ```
 **弹幕**
 ```
-https://xrzyun-generic.pkg.coding.net/xrz-video/video/danmaku.xml?version=wylsrt-3-1
+https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/wylsrt-3-1.xml
 ```
 ### 2
 - [x] 天翼云
 - [x] OneDrive
 - [x] Github Releases
-- [x] Coding 制品库
+- [ ] Coding 制品库
 - [x] Coding Issues
 
-**视频**   [点击下载](https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-2)
+**视频**   [点击下载](https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/wylsrt-3-2.flv)  
+**FileID**:`22448118`
 ```
-https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-2
+https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/wylsrt-3-2.flv
 ```
 **弹幕**
 ```
-https://xrzyun-generic.pkg.coding.net/xrz-video/video/danmaku.xml?version=wylsrt-3-2
+https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/wylsrt-3-2.xml
 ```
 ### 3
 - [x] 天翼云
@@ -48,7 +50,8 @@ https://xrzyun-generic.pkg.coding.net/xrz-video/video/danmaku.xml?version=wylsrt
 - [x] Coding 制品库
 - [x] Coding Issues
 
-**视频**   [点击下载](https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-3)
+**视频**   [点击下载](https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-3)  
+**FileID**:`22448119`
 ```
 https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-3
 ```
@@ -63,7 +66,8 @@ https://xrzyun-generic.pkg.coding.net/xrz-video/video/danmaku.xml?version=wylsrt
 - [x] Coding 制品库
 - [x] Coding Issues
 
-**视频**   [点击下载](https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-4)
+**视频**   [点击下载](https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-4)  
+**FileID**:`22448120`
 ```
 https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=wylsrt-3-4
 ```
@@ -78,7 +82,8 @@ https://xrzyun-generic.pkg.coding.net/xrz-video/video/danmaku.xml?version=wylsrt
 - [ ] Coding 制品库
 - [x] Coding Issues
 
-**视频**   [点击下载](https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.11.14/wylsrt-3-5.flv)
+**视频**   [点击下载](https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.11.14/wylsrt-3-5.flv)  
+**FileID**:`22448121`
 ```
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.11.14/wylsrt-3-5.flv
 ```
