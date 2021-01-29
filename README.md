@@ -1,11 +1,11 @@
 ## 公告
 因处在考试周，更新可能较慢。  
-![图片](https://xrzyun.coding.net/api/project/7790293/files/22539397/imagePreview)
+![图片](https://xrzyun.coding.net/p/blog/d/cdn/git/raw/master/img/xbtc/2021/1/30/xbtc_1611942988692_090317bd1c43e34f.jpg)
 ## 导航
-> [跳转本文更新链接](https://tp.xrzyun.top/jump/?t=bili-vd-bak)(防删专用)
+> [跳转本文更新链接](https://tp.xrzyun.top/bili-vd-bak/)(防删专用)
 
 ```
-https://tp.xrzyun.top/jump/?t=bili-vd-bak
+https://tp.xrzyun.top/bili-vd-bak/
 ```
 
 ### 工具
