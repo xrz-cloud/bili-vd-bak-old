@@ -34,3 +34,6 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/jr-1-1.xml
 **zip包FileID(双版本)**:`22846442`  
 **tips**:zip备份数据包MD5(`0e5b4b3e98a92a654b7b05185c17b762`),密码(`4483e2f4`)  
 **提示**:`nodel`指*not delete*未删减，`bilibili`指B站缓存版，有删减。  
+### 3
+**FileID**:`22907976`  
+**tips**:本集有B站P图操作，无大修改，有需要请自己找完整资源。  
