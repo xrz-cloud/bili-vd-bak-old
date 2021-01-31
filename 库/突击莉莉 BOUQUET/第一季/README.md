@@ -87,7 +87,7 @@ https://xrzyun-generic.pkg.coding.net/xrz-video/video/0.flv?version=bouquet-1-5
 https://xrzyun-generic.pkg.coding.net/xrz-video/video/danmaku.xml?version=bouquet-1-5
 ```
 ### 6
-- [x] 天翼云
+- [ ] 天翼云
 - [x] OneDrive
 - [x] Github Releases
 - [ ] Coding 制品库
@@ -134,7 +134,7 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/bouquet-1-8.f
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/bouquet-1-8.xml
 ```
 ### 9
-- [x] 天翼云
+- [ ] 天翼云
 - [x] OneDrive
 - [x] Github Releases
 - [ ] Coding 制品库
@@ -166,7 +166,7 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/bouquet-1-10.
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/bouquet-1-10.xml
 ```
 ### 11
-- [x] 天翼云
+- [ ] 天翼云
 - [x] OneDrive
 - [x] Github Releases
 - [ ] Coding 制品库
