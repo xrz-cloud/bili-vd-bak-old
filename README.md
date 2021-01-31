@@ -23,6 +23,6 @@ https://tp.xrzyun.top/bili-vd-bak/
  天翼云盘        |     https://cloud.189.cn/t/aEJjQ3jQnQ7r    |       4mjs
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
  
- ## 声明
- 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
- 如有侵权，请发送信息至邮箱 1937019695@qq.com ，将于24小时内删除。
+## 声明
+此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
+如有侵权，请发送信息至邮箱 1937019695@qq.com ，将于24小时内删除。
