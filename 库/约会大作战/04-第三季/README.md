@@ -3,7 +3,8 @@
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
  天翼云盘        |     https://cloud.189.cn/t/RzMBfuNJr6bq    |       mwj5
- OneDrive        |     [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EgInCZshNytPsUG65KpQ5lQBTvWn2Oe2_6CCttOK5AtGag?e=ttlLnF)    |       w8rm
+ OneDrive        |     [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EgInCZshNytPsUG65KpQ5lQBTvWn2Oe2_6CCttOK5AtGag?e=ttlLnF)    |       w8rm 
+  Github(仅弹幕) | https://github.com/xrz-cloud/bili-vd-bak/releases/tag/2019.1.old.1 | -
 
 ## 简介
 [视频链接](https://www.bilibili.com/bangumi/media/md4762754/)  

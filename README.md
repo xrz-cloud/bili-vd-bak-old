@@ -22,6 +22,7 @@ https://tp.xrzyun.top/bili-vd-bak/
 :-----------: | :-----------: | :-----------:
  天翼云盘        |     https://cloud.189.cn/t/aEJjQ3jQnQ7r    |       4mjs
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
+ GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | -
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
