@@ -1,9 +1,11 @@
-![图片](https://xrzyun.coding.net/api/project/7790293/files/22539397/imagePreview)
+## 公告
+因处在考试周，更新可能较慢。  
+![图片](https://xrzyun.coding.net/p/blog/d/cdn/git/raw/master/img/xbtc/2021/1/30/xbtc_1611942988692_090317bd1c43e34f.jpg)
 ## 导航
-> [跳转本文更新链接](https://wds.ecsxs.com/2342.html)(防删专用)
+> [跳转本文更新链接](https://tp.xrzyun.top/bili-vd-bak/)(防删专用)
 
 ```
-https://wds.ecsxs.com/2342.html
+https://tp.xrzyun.top/bili-vd-bak/
 ```
 
 ### 工具
@@ -15,9 +17,6 @@ https://wds.ecsxs.com/2342.html
 
 <-- 详情请参考左侧文档目录。
 
-## 番剧统计
-连载中：0
-已完结：13
 ## 下载网盘
 储存库 | 番剧总链接 | 密码
 :-----------: | :-----------: | :-----------:
@@ -27,5 +26,3 @@ https://wds.ecsxs.com/2342.html
  ## 声明
  此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
  如有侵权，请发送信息至邮箱 1937019695@qq.com ，将于24小时内删除。
-
- 此文档库仅在coding及github上发布。
