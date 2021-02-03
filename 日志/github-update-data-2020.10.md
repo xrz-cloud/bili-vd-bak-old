@@ -65,6 +65,11 @@ MD5(`ea6e6ad086fcc4ead25fe16bcf74c5bd`),密码(`80159b72`)
 
 ### 突击莉莉 BOUQUET(bouquet)
 #### 第一季
+- 01-睡莲
+- 02-铃兰
+- 03-勿忘我
+- 04-金木犀
+- 05-翡翠葛
 - [06-紫花地丁](https://github.com/xrz-cloud/bili-vd-bak/releases/tag/2020.11.13)
 - [07-小苍兰](https://github.com/xrz-cloud/bili-vd-bak/releases/tag/2020.11.27)
 - 08-山茶花
