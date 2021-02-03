@@ -1,6 +1,6 @@
 ## 公告
-因处在考试周，更新可能较慢。  
-![图片](https://xrzyun.coding.net/p/blog/d/cdn/git/raw/master/img/xbtc/2021/1/30/xbtc_1611942988692_090317bd1c43e34f.jpg)
+放假了！但这比上学还累啊啊啊。。。  
+![图片](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/2d3e2b0b931e8767198c3becbc91af03beeb3526.jpg@533w_500h_1e_1c.jpg)
 ## 导航
 > [跳转本文更新链接](https://tp.xrzyun.top/bili-vd-bak/)(防删专用)
 
@@ -9,8 +9,6 @@ https://tp.xrzyun.top/bili-vd-bak/
 ```
 
 ### 工具
-> [获取天翼云直链[可直接播放]](https://api.zzux.net/189/down.html)
-
 > [Github直链加速1](https://gh.msx.workers.dev/)  
 [Github直链加速2](https://toolwa.com/github/)  
 *Tips: 你问我这是什么？就是下载目录中`https://github.com`开头的直链，慢就用这个吧。*
@@ -26,4 +24,8 @@ https://tp.xrzyun.top/bili-vd-bak/
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
-如有侵权，请发送信息至邮箱 1937019695@qq.com ，将于24小时内删除。
+如有侵权，请发送信息至邮箱 1937019695@qq.com ，将尽快删除。
+## Link
+[主站](https://www.xrzyun.top)  
+[大概不会再更的博客(bushi](https://blog.xrzyun.top)  
+[短链接](https://s.xrzyun.top)  
