@@ -1,5 +1,6 @@
 ## 公告
 放假了！但这比上学还累啊啊啊。。。  
+(2021.2.5追加)白嫖了一个月带会员，现提前传提前看视频。哦，需要代下载可联系次此页下方邮箱。  
 ![图片](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/2d3e2b0b931e8767198c3becbc91af03beeb3526.jpg@533w_500h_1e_1c.jpg)
 ## 导航
 > [跳转本文更新链接](https://tp.xrzyun.top/bili-vd-bak/)(防删专用)
