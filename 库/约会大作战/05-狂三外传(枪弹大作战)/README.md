@@ -35,8 +35,13 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/dal-dab-1.xml
 - [ ] Coding 制品库
 - [x] Coding Issues
 
-**视频**   [点击下载](https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/dal-dab-2-720p.mp4)  
+**视频**   [点击下载](https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/dal-dab-2.flv)  
+**1080P-flv资源码**:`22960794`  
 **720p-mp4资源码**:`22539111`  
+```
+https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/dal-dab-2.flv
+```
+或
 ```
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/dal-dab-2-720p.mp4
 ```

@@ -1,4 +1,3 @@
-# 公告：已弃坑
 ## 下载
 
 储存 | 链接 | 密码
@@ -123,3 +122,13 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/gtm-2-7.flv
 ```
 https://github.com/xrz-cloud/bili-vd-bak/releases/download/2020.10/gtm-2-7.xml
 ```
+### 8
+**FileID**:`22960806`
+### 9
+**FileID**:`22960821`
+### 10
+**FileID**:`22960830`
+### 11
+**FileID**:`22960829`
+### 12
+**FileID**:`22960831`
