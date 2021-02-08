@@ -1,3 +1,7 @@
+### 2021.2.8
+新文件储存：  
+使用了工具 [CDNDrive](https://github.com/apachecn/CDNDrive) ,储存在Bili相簿中，速度快，前提是你会用。
+
 ### 2021.2.4
 文件储存解释 **(新版)**
 
