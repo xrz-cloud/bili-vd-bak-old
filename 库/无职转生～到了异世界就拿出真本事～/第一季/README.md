@@ -39,3 +39,11 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/jr-1-1.xml
 **tips**:本集有B站P图操作，无大修改，有需要请自己找完整资源。  
 ### 4
 **FileID**:`22957801`
+### 5
+标题：大小姐与暴力  
+**FileID**:其它源:`22975783`  
+哔哩安卓版缓存`22975791`  
+哔哩港澳台版无字幕视频+json及srt格式外挂字幕`22975796`,MD5(`0e5b4b3e98a92a654b7b05185c17b762`),密码(`4483e2f4`)  
+cid:`293248090`  
+META URL:`bdex://a964cc1a6a4c6caf210c9b71a88ee2cc615c20f0`(其它源`jr-1-5.mp4`)  
+**tips**:lex和陈睿死🐴。本集因CN版下架,换港澳台版(CC字幕)和其它源(内嵌字幕),均无删减。  
