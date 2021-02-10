@@ -1,3 +1,11 @@
+### 2021.2.10
+文件储存提醒：  
+1. 天翼云盘大面积翻车，详情见公告。  
+2. OneDrive新CDN挺快的，建议使用。  
+3. FileID原理是调用 腾讯云Coding 的API,短时间请求过多回暂停服务。  
+4. bdex开头的META URL由工具 [CDNDrive](https://github.com/apachecn/CDNDrive) 生成，为开源项目。  
+5. 欢迎大佬把上面的做成GUI版。  
+
 ### 2021.2.8
 新文件储存：  
 使用了工具 [CDNDrive](https://github.com/apachecn/CDNDrive) ,储存在Bili相簿中，速度快，前提是你会用。
