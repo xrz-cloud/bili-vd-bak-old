@@ -2,7 +2,6 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- 天翼云盘        |     https://cloud.189.cn/t/uuq2imZBJfyy    |       0ujq
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Ep47ov1iIAZEggAAepNiymkBOjdANUmV8FhlkmzPqGXTXg?e=xNoRAB) | WGv$@%du
 
 ## 简介

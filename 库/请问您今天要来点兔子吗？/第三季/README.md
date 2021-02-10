@@ -2,7 +2,7 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- 天翼云盘        |     https://cloud.189.cn/t/mEJzqi6ZBRVf    |       sx5x
+ 天翼云盘        |     [跳转](https://cloud.189.cn/t/mEJzqi6ZBRVf)    |       sx5x
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EikzrvTmJp9Isa3q7PV1M9oBhQwClgfNrdhtjuVtyeF0qQ?e=CiwdAU) | 89di
 
 ## 简介

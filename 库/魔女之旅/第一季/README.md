@@ -2,7 +2,7 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- 天翼云盘        |     https://cloud.189.cn/t/eEjiu2Jzi2m2    |       iin0
+ 天翼云盘        |     [跳转](https://cloud.189.cn/t/RfMFrubUfAJn)    |       0xwa
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EqW8WD1uNh5Go_sO7badM8gBEEaze8c38Zns6b8AGLfJ6A?e=7TZr3S) | ef45
 
 ## 简介
