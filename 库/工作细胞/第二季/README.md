@@ -31,3 +31,8 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/caw-2-1.xml
 **FileID**:`22970772`  
 cid:`294021804`  
 META URL:`bdex://bc42499442001d863d27e2094a453db8037111d9`  
+### 6
+标题：有害菌  
+**FileID**:`22989579`  
+cid:`297113835`  
+META URL:`bdex://792862980c9556ae89374f41ef112b9a78e501b6`  
