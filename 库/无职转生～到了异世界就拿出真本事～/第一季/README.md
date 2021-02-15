@@ -41,3 +41,9 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/jr-1-1.xml
 cid:`293248090`  
 META URL:`bdex://a964cc1a6a4c6caf210c9b71a88ee2cc615c20f0`(其它源`jr-1-5.mp4`)  
 **tips**:lex和陈睿死🐴。本集因CN版下架,换港澳台版(CC字幕)和其它源(内嵌字幕),均无删减。`jr-1-5-nosubtitles`B站导入缓存用，无字幕。  
+### 6
+标题：罗亚假期  
+**FileID**:`22992136`  
+cid:`297137385`  
+~~ META URL:`N/A` ~~  
+**tips**:视频自压，来源B站，flv无字幕，mkv内封字幕，请完全下载后观看，srt为字幕文件。  
