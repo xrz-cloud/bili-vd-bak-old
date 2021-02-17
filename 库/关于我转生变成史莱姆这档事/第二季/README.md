@@ -33,3 +33,8 @@ https://github.com/xrz-cloud/bili-vd-bak/releases/download/2021.1/ttigrs-2-24.9.
 标题：灾厄的前奏曲  
 **FileID**:`22981181`  
 META URL:`bdex://0e3a31913fa1c87d3b6f2426df3e8a934280de2f`  
+### 30
+标题：出动的丽人  
+**FileID**:`22998173`  
+cid:`298364312`  
+META URL:`N/A`  
