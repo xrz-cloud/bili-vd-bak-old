@@ -45,5 +45,5 @@ META URL:`bdex://a964cc1a6a4c6caf210c9b71a88ee2cc615c20f0`(其它源`jr-1-5.mp4`
 标题：罗亚假期  
 **FileID**:`22992136`  
 cid:`297137385`  
-~~ META URL:`N/A` ~~  
+META URL:`bdex://a66a969355c7d03b7ee368a55081d5e47cb9530a`  
 **tips**:视频自压，来源B站，flv无字幕，mkv内封字幕，请完全下载后观看，srt为字幕文件。  
