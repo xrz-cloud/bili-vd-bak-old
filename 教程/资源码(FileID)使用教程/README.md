@@ -1,4 +1,5 @@
 ## 资源码(FileID)使用教程
+推荐查看Coding官方帮助,[授权认证](https://help.coding.net/docs/open/start.html)及[查询附件下载地址](https://help.coding.net/docs/open/project/issue/attachments.html)。  
 ### Android
 #### 第一次使用
 1. 安装Termux。
@@ -13,22 +14,18 @@ sh -c "$(curl -fsSL https://gitee.com/idkzr/termux-ohmyzsh/raw/master/install.sh
 5. 复制资源码，如`22187534`，  
 复制命令,修改`资源码`3个字为复制的资源码。
 ```bash
-curl -X POST \
--d '{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 资源码}' \
--H "Content-Type:application/json" \
--H "Authorization: token 3d81637cf09027ffa006d707419a899e2f3f4cca" \
-"https://xrzyun.coding.net/open-api"
+curl -X POST https://e.coding.net/open-api \
+-d '{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 资源码,"Authorization": "3d81637cf09027ffa006d707419a899e2f3f4cca"}' \
+-H "Content-Type:application/json"
 ```
   
 
 6. 在Termux里输入**修改后的命令**，回车。  
 Demo:
 ```bash
-curl -X POST \
--d '{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 22187534}' \
--H "Content-Type:application/json" \
--H "Authorization: token 3d81637cf09027ffa006d707419a899e2f3f4cca" \
-"https://xrzyun.coding.net/open-api"
+curl -X POST https://e.coding.net/open-api \
+-d '{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 22187534,"Authorization": "3d81637cf09027ffa006d707419a899e2f3f4cca"}' \
+-H "Content-Type:application/json"
 ```
 7. 得到类似以下字段  
 (Tips:第一个框为 格式化前，第二个框为格式化后。)
@@ -61,23 +58,18 @@ curl -X POST \
 
 #### 后续步骤
 2. 如图
-![图片](https://xrzyun.coding.net/p/blog/d/cdn/git/raw/web/img/wiki_1.PNG)
- > 1. 将标 1 的地方从左到右，从上到下，依次改为`https://` | `xrzyun.coding.net/open-api` | `POST` | `application/json;charset=utf-8`。
-> 2. 将标 2 的地方分别点击。
-> 3. 第一个2下面，即 JSON参数设置 ，改为
+![图片](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/e95920a604527a03548675a0831444fc87849183.png )  
+> 1. 将标 1 的地方从左到右，从上到下，依次改为`https://` | `e.coding.net/open-api` | `POST` | `application/json;charset=utf-8`。  
+> 2. 点击标 2 的地方。  
+> 3. 标 2 处下面，即 JSON参数设置 ，改为（修改`资源码`三字为资源码数字）  
 ```
-{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 资源码}
+{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 资源码,"Authorization": "3d81637cf09027ffa006d707419a899e2f3f4cca"}
 ```
 示例:
 ```
-{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 22187534}
+{"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 22187534,"Authorization": "3d81637cf09027ffa006d707419a899e2f3f4cca"}
 ```
-> 4. 将标 3 的地方分别改为
-`Authorization`和
-```
-token 3d81637cf09027ffa006d707419a899e2f3f4cca
-```
-> 5. 点击 模拟请求 。
+> 4. 点击 模拟请求 。
 3. 如图2
 ![图片](https://xrzyun.coding.net/p/blog/d/cdn/git/raw/web/img/wiki_2.png)
 > 点击 2-1 ，下载链接为`S`与`E`中间的，图上的为
