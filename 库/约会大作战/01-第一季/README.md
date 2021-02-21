@@ -2,7 +2,7 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- 天翼云盘        |     https://cloud.189.cn/t/mQnQJrmYrAvu    |       ubp3
+ 天翼云盘        |     [跳转](https://cloud.189.cn/t/mQnQJrmYrAvu)    |       ubp3
  OneDrive        |     [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EoulvK-9p_NDkvK4P8PY6_0BwOMBCi82Shw-J-SGkOPzdg?e=0wrLwM)    |       ms32
 
 ## 简介

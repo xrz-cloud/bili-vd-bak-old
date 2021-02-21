@@ -2,9 +2,9 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- 天翼云盘        |     https://cloud.189.cn/t/m2yUV36ZBZJ3    |       tyg0
+ 天翼云盘        |     [跳转](https://cloud.189.cn/t/m2yUV36ZBZJ3)    |       tyg0
  OneDrive        |     [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Ej2Dsz4URFdGjPiAzXoRafQBwVslOmUS0hVu66LunNyLIA?e=4yI3Uh)    |       v8t4 
-  Github(仅弹幕) | https://github.com/xrz-cloud/bili-vd-bak/releases/tag/2014.4.old.1 | -
+ Github(仅弹幕) | [跳转](https://github.com/xrz-cloud/bili-vd-bak/releases/tag/2014.4.old.1) | -
 
 ## 简介
 视频来源  

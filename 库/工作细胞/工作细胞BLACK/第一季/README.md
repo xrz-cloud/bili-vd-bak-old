@@ -3,6 +3,7 @@
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Ep47ov1iIAZEggAAepNiymkBOjdANUmV8FhlkmzPqGXTXg?e=xNoRAB) | WGv$@%du
+ IssueCode | 157(与工作细胞第二季共用) | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28231819/)  
@@ -34,3 +35,8 @@ META URL:`bdex://5fac44343ebbd7c959ad780140b48310f9977f9b`
 **FileID**:`22989583`  
 cid:`297365718`  
 META URL:`bdex://a5e85e6c176d4c1f81f8a19f9ecf313b0c1d4d11`  
+### 9
+异变、足癣、工作的意义。  
+**FileID**:`23026324`  
+cid:`300178245`  
+META URL:`N/A`  

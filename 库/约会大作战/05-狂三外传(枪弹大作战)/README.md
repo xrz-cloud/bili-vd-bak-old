@@ -2,8 +2,9 @@
 
  储存 | 链接 | 密码
  :---: | :---: | :---: 
- 天翼云盘 | https://cloud.189.cn/t/vM32QfVJFjim | 9yz7
+ 天翼云盘 | [跳转](https://cloud.189.cn/t/vM32QfVJFjim) | 9yz7
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Ej0BRgyoyTtOrbPi4OkJXusB70kksbHxQyUU0KigHK4gvw?e=xi93m2) | fy38 
+ IssueCode | 139 | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28229874/)  
