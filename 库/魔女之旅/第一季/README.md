@@ -4,6 +4,7 @@
 :----------- | :-----------: | -----------:
  天翼云盘        |     [跳转](https://cloud.189.cn/t/RfMFrubUfAJn)    |       0xwa
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EqW8WD1uNh5Go_sO7badM8gBEEaze8c38Zns6b8AGLfJ6A?e=7TZr3S) | ef45
+ IssueCode | 112及137(两部分) | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28229881/)  

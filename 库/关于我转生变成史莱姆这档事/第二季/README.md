@@ -3,6 +3,7 @@
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EqJNSBVy1FJAuIuDf4hRM_UBpXkYYhGDULKPfKo4iIBFgg?e=Ut9HDw) | pA1#nxJ6
+ IssueCode | 152 | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28231812/)  

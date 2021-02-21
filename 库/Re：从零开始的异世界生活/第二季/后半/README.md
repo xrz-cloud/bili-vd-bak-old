@@ -2,7 +2,7 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- 天翼云盘        |     https://cloud.189.cn/t/FVnyiefmuyYj    |       0kfs
+ 天翼云盘        |     [跳转](https://cloud.189.cn/t/FVnyiefmuyYj)    |       0kfs
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EpsO4WLksrlGh0gKfM7KAgYBKpPPX97eQ5zjttvd7XAS4A?e=bWLb5w) | zXf^C9VF
  IssueCode(见 教程-FileID-API) | 161 | 3d81637cf09027ffa006d707419a899e2f3f4cca
 

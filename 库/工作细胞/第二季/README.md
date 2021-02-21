@@ -3,6 +3,7 @@
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EhqHju1mjjhGvol5kPKut7ABI8CN1d0CPWysJfVw1qeQUQ?e=kwwfet) | _k$%H7wp
+ IssueCode | 157(与工作细胞BLACK第一季共用) | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28231816/)  
@@ -36,3 +37,8 @@ META URL:`bdex://bc42499442001d863d27e2094a453db8037111d9`
 **FileID**:`22989579`  
 cid:`297113835`  
 META URL:`bdex://792862980c9556ae89374f41ef112b9a78e501b6`  
+### 7
+癌细胞Ⅱ（前篇）  
+**FileID**:`23026325`  
+cid:`300134161`  
+META URL:`N/A`  
