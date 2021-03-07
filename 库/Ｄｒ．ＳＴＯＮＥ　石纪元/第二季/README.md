@@ -30,3 +30,12 @@ META URL:`bdex://d9ae3ddb916a91e5711862105f084ceaae251e0f`
 **FileID**:`23021323`  
 cid:`298722149`  
 META URL:`bdex://f184c910dc6b6c794ece61dc7676209a2ab548c7`  
+### 7
+机密任务  
+**FileID**:`23082370`  
+cid:`302361495`  
+META URL:`bdex://5ed48682d9aef6cd57743d8547f20b9954ad412d`  
+### 8
+决战
+**FileID**:`23137191`  
+cid:`305961638`  

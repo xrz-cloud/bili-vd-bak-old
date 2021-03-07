@@ -1,6 +1,6 @@
 ## 公告
-开学了，停一会。  
-(2021.2.5追加)白嫖了一个月大会员，现提前传提前看视频。哦，需要代下载可联系此页下方邮箱。  
+开学了，通常一周更新一次。  
+大会员即将过期。  
 (2021.2.21追加)做了个FileID工具,大大简化流程。  
 (2021.2.22追加)天翼云盘开始恢复部分分享，但需扫码，且只能转存。  
 (2021.2.26追加)元宵快乐，我做了个**FileID解析小程序**([跳转](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg ))，这下应该都会用了吧。  
@@ -25,7 +25,7 @@ https://tp.xrzyun.top/bili-vd-bak/
 :-----------: | :-----------: | :-----------:
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
  GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | -
- FileID/IssueCode/bdex | 资源链见`库`中,使用方法见教程。命令行,永远滴神。 | -
+ FileID/IssueCode/bdex | 资源链见`库`中,使用方法见教程。 | -
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
@@ -34,4 +34,4 @@ https://tp.xrzyun.top/bili-vd-bak/
 [主站](https://www.xrzyun.top)  
 [大概不会再更的博客(bushi](https://blog.xrzyun.top)  
 [短链接](https://s.xrzyun.top)  
-![小程序](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg )
+![微信小程序](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg )
