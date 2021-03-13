@@ -60,3 +60,9 @@ META URL:`N/A`
 cid:`304542522`  
 META URL:`N/A`  
 **tips**:阿B删得太过分了,港澳台都不放过,这次B站的放泰国版,其它源继续提供。  
+### 9
+邂逅  
+[临时下载线路](https://vip.w.xk.miui.com/54fc0a2fe118b843e6a2d4ce93d30be1)  
+**FileID**:`23196168`  
+cid:`306218142`  
+**tips**:东南亚版的没了，太狠了。  

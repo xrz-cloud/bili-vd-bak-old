@@ -1,9 +1,8 @@
 ## 公告
 开学了，通常一周更新一次。  
-大会员即将过期。  
-(2021.2.21追加)做了个FileID工具,大大简化流程。  
+大会员已过期，恢复正常更新进度。  
+**FileID解析小程序**([跳转](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg ))  
 (2021.2.22追加)天翼云盘开始恢复部分分享，但需扫码，且只能转存。  
-(2021.2.26追加)元宵快乐，我做了个**FileID解析小程序**([跳转](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg ))，这下应该都会用了吧。  
 ![头图](//v1.alapi.cn/api/acg )
 ## 导航
 > [跳转本文链接](https://tp.xrzyun.top/bili-vd-bak/)(请复制,防删专用,本文档随时转移)
