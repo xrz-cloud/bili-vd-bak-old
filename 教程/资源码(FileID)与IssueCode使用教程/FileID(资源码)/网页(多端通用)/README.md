@@ -22,14 +22,14 @@
 ```
 {"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 资源码,"Authorization": "3d81637cf09027ffa006d707419a899e2f3f4cca"}
 ```
-示例:
+示例:  
 ```
 {"Action": "DescribeIssueFileUrl","ProjectName": "xrz-video","FileId": 22187534,"Authorization": "3d81637cf09027ffa006d707419a899e2f3f4cca"}
 ```
 > 4. 点击 模拟请求 。
 3. 如图2
 ![图片](https://xrzyun.coding.net/p/blog/d/cdn/git/raw/web/img/wiki_2.png)
-> 点击 2-1 ，下载链接为`S`与`E`中间的，图上的为
+> 点击 2-1 ，下载链接为`S`与`E`中间的，图上的为  
 ```
 http://coding-net-production-file-1257242599.cos.ap-shanghai.myqcloud.com/5e7ad2c0-271b-11eb-bcc2-256bb590ce3f.zip?sign=q-sign-algorithm%3Dsha1%26q-ak%3DAKIDay83lFmaS6Y4LTdzMVO1SdZOyJSNOYpr%26q-sign-time%3D1605877207%3B1605880807%26q-key-time%3D1605877207%3B1605880807%26q-header-list%3D%26q-url-param-list%3Dresponse-content-disposition%3Bresponse-expires%26q-signature%3D33d77d4e74ef164898a7c9d8fc86cbf99d19e4bb&response-content-disposition=attachment%3Bfilename%3DAndroidCarrierClassTools_v2.0_20170109-20201115162006.zip&response-expires=Mon%2C%2023%20Nov%202020%2001%3A00%3A07%20GMT
 ```
