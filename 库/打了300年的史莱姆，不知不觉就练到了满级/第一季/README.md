@@ -1,10 +1,10 @@
 ## 下载
 
-储存 | 链接 | 密码
-:----------- | :-----------: | -----------:
- 天翼云盘        |     [跳转](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/54f9827b83fc83dbb97350e44a66c3641870dd15.jpg)    |       -
- OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Eiu7H35_IJ1LkXBnHUOwTdgBeQ0OdUr-OtqZYJXEiEX47w?e=X9lmmx | Y]vb]r#x
- IssueCode | 191 | -
+储存 | 链接 | 密码 
+:----------- | :-----------: | -----------: 
+ 天翼云盘        |     [跳转](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/54f9827b83fc83dbb97350e44a66c3641870dd15.jpg)    |       - 
+ OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Eiu7H35_IJ1LkXBnHUOwTdgBeQ0OdUr-OtqZYJXEiEX47w?e=X9lmmx | Y]vb]r#x 
+ IssueCode | 191 | - 
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28233911/)  
@@ -21,3 +21,7 @@ cid:`322321955`
 女儿来了  
 **FileID**:`23528164`  
 cid:`325035908`  
+### 3
+精灵来了  
+**FileID**:`23625572`  
+cid:`328019067`  
