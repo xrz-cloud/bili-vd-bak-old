@@ -2,7 +2,7 @@
 开学了，通常一周更新一次。  
 大会员已过期，恢复正常更新进度。  
 **FileID解析小程序**([跳转](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg ))  
-(2021.2.22追加)天翼云盘开始恢复部分分享，但需扫码，且只能转存。  
+(2021.5.4修改)天翼云盘恢复部分分享，新番大部分审核不通过。新分享需扫码，且只能转存。  
 ![头图](//v1.alapi.cn/api/acg )
 ## 导航
 > [跳转本文链接](https://tp.xrzyun.top/bili-vd-bak/)(请复制,防删专用,本文档随时转移)
@@ -22,7 +22,8 @@ https://tp.xrzyun.top/bili-vd-bak/
 
 储存库 | 番剧总链接 | 密码
 :-----------: | :-----------: | :-----------:
- OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
+ OneDrive-E5-xrzyun.ml | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
+ OneDrive-A1-od5t.me | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS 
  GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | -
  FileID/IssueCode/bdex | 资源链见`库`中,使用方法见教程。 | -
  
