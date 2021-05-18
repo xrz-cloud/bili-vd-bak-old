@@ -22,10 +22,12 @@ https://tp.xrzyun.top/bili-vd-bak/
 
 储存库 | 番剧总链接 | 密码
 :-----------: | :-----------: | :-----------:
- OneDrive-E5-xrzyun.ml | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
- OneDrive-A1-od5t.me | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS 
- GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | -
- FileID/IssueCode/bdex | 资源链见`库`中,使用方法见教程。 | -
+ OneDrive-E5-xrzyun.ml(**实时**) | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
+ OneDrive-A1-od5t.me(定期同步) | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS 
+ OneDrive-A1-ceo.co.ax(定期同步) | [跳转](https://mmitacnz2-my.sharepoint.com/:f:/g/personal/xrz_ceo_co_ax/Erq71dp4NDZJruxnEfy3ZWYBkGtaCVGEieoFpsqyaXZ2oA?e=NZsC5W) | rYMj!c@Z 
+ 和彩云(随缘上传) | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP 
+ GitHub(防挂国外源) | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - 
+ FileID/IssueCode/bdex(防挂国内源) | 资源链见`库`中,使用方法见教程。 | - 
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
