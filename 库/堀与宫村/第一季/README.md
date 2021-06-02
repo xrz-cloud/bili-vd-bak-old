@@ -2,6 +2,7 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
+ 天翼云盘 | [二维码](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/d42ba9a9504266cd73385dd885e33e1c94ef47e9.jpg) | -
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EqP88MhbK8NFgMwD-dSPJkwBcg-SvalLFb-gWAZPk9hBtw?e=accF90) | $fQS#!@d
  IssueCode | 173 | -
 
