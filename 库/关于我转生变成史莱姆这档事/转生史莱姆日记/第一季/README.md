@@ -2,23 +2,27 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- OneDrive | [跳转]() | pA1#nxJ6
- IssueCode | 152 | -
+ OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EpIx8QRu4iBPj_n1urtGpzYBHWN0Mj6ZfM2S68nEhvWXhQ?e=9BPmi2) | Y$^Uh]Fv
+ IssueCode | 196 | -
 
 ## 分集
 ### 1
-赌上一切  
-**FileID**:`23261208`  
-cid:`307984307`  
+魔物城镇的居民们  
+**FileID**:`24019225`  
+cid:`332105623`  
 ### 2
-神之怒  
-**FileID**:`23402475`  
-cid:`311090021`  
+和春天的空气一起  
+**FileID**:`24019500`  
+cid:`332106369`  
 ### 3
-魔王诞生  
-**FileID**:`23402478`  
-cid:`314301330`  
+鸠拉的夏天  
+**FileID**:`24019503`  
+cid:`335567223`  
 ### 4
-被解放之人  
-**FileID**:`23402487`  
-cid:`317368792`  
+穿泳衣过一天  
+**FileID**:`24019507`  
+cid:`338847790`  
+### 5
+重现夏日庙会  
+**FileID**:`24019519`  
+cid:`342482334`  
