@@ -32,9 +32,13 @@ https://tp.xrzyun.top/bili-vd-bak/
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
-如有侵权，请发送信息至邮箱 1937019695@qq.com ，将尽快删除。
+如有侵权，请发送信息至邮箱 1937019695@qq.com ，将尽快删除。  
+本文档资源使用提示：  
+1. 少分享，文档没了不要怪我。
+2. 下载不要超过3线程，文件分享掉了后，不定时重分享。
+3. 欢迎在[GitHub](https://github.com/xrz-cloud/bili-vd-bak/tree/wiki)提交PR，为本文档作出贡献。
+
 ## Link
 [主站](https://www.xrzyun.top)  
-[大概不会再更的博客(bushi](https://blog.xrzyun.top)  
 [短链接](https://s.xrzyun.top)  
 ![微信小程序](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg )
