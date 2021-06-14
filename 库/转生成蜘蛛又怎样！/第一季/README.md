@@ -3,7 +3,7 @@
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EluKkiJzxWZJgCvFHqFWYbEBtP8gkPPAxM5IdyL21sV6PA?e=UfSIV1) | 5m)&]fC*
- IssueCode | 192 | -
+ IssueCode | 192、补集(21集开始)151 | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28231809/)  
@@ -92,3 +92,7 @@ cid:`341998662`
 这不能怪我，对吧？  
 **FileID**:`24019077`  
 cid:`345265541`  
+### 21
+轮不到我出场吗？  
+**FileID**:`24089605`  
+cid:`348813241`  
