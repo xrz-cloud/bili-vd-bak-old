@@ -11,6 +11,26 @@
 主目录压缩包里有4个视频站的弹幕，从B站评论区里拿的。
 由于B站要会员了，故立马缓存了，上面网盘取，解压后放进B站缓存目录。    
 
+## 第一季、第二季、剧场版(B站缓存压缩包)
+### 和彩云
+[跳转](https://caiyun.139.com/m/i?185C6zlgxjt71) 密码：`s7cz` 或 复制`链接：https://caiyun.139.com/m/i?185C6zlgxjt71 提取码：s7cz 复制内容打开和彩云手机APP，操作更方便哦`到网盘打开。  
+### CODING FileID
+第一季**FileID**:`24474639`  
+第二季**FileID**:`24474993`  
+剧场版（结城友奈是勇者 -鹫尾须美之章-）**FileID**:`24475051`  
+### 百度网盘
+#### 常规分享
+[跳转](https://pan.baidu.com/s/1evkXyMAKYjKMBPvfuD8WfA) 提取码:`58oe` 或 复制`复制这段内容后打开百度网盘手机App，操作更方便哦 链接:https://pan.baidu.com/s/1evkXyMAKYjKMBPvfuD8WfA 提取码:58oe`到网盘打开。  
+#### 特征码分享
+使用：[跳转](https://baidu.kinh.cc/?Share_APASS_Parsing)  
+合集：  
+
+```
+890e8efc0f5f103891ebf04504916174#fbc3626c4b3a9f9bd047125f6e6b942a#3157305540#yuyuyu-1-bilicache.zip
+23125aa7cdd50b3e4068416a96ffcae1#133584ceb6b75d4304431646bf81a003#4274588817#yuyuyu-2-bilicache.zip
+f8ce150919d41c33b2e6d3284be16842#482d2f1330b925133af8a5da217edff4#1227642330#yuyuyu-theater-bilicache.zip
+```
+
 ## SP 啾噜！
 **IssueCode**:`193`  
 ### 分集

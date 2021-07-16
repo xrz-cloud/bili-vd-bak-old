@@ -1,11 +1,14 @@
 ## 公告
-开学了，通常一周更新一次。  
+~~开学了，通常一周更新一次。~~  
+放暑假更忙啊！  
 番剧GitHub照常上传，但不会在`库`中放链接。  
-API文档在写了，勿催。  
+API文档在写了，勿催。老子懒得改了！  
 **FileID解析小程序**([跳转](//images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/21b783e383d16b2b66468cf6655b9d517e777112.jpg ))  
 (2021.5.4修改)天翼云盘恢复部分分享，新番大部分审核不通过。新分享需扫码，且只能转存。  
 (2021.5.27追加)天翼云盘仅在番剧完结之后分享。  
-![头图](//v1.alapi.cn/api/acg )
+(2021.7.16追加)天翼云盘，随机分享，大多存在家庭盘，原因一个是难过审核，还有个人盘空间不够。  
+送个不知道是谁分享的资源 => [OneDrive分享](https://oxsayacid8-my.sharepoint.com/:f:/g/personal/liuli07_xooo_ml/Eq8VSHBbn2pNsV2HDcouTNkBO4_U7CjaF4h6l6f2OomEnQ?e=Mncb0M)
+
 ## 导航
 > [跳转本文链接](https://tp.xrzyun.top/bili-vd-bak/)(请复制,防删专用,本文档随时转移)
 
@@ -14,6 +17,7 @@ https://tp.xrzyun.top/bili-vd-bak/
 ```
 
 ### 工具
+
 > [Github直链加速1](https://gh.msx.workers.dev/)  
 [Github直链加速2](https://toolwa.com/github/)  
 *Tips: 你问我这是什么？就是下载目录中`https://github.com/`开头的直链，慢就用这个吧。挂了自己找，网上一大堆。*
