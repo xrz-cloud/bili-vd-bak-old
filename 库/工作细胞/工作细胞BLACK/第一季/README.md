@@ -4,7 +4,7 @@
 :----------- | :-----------: | -----------:
  天翼云盘 | [二维码](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/5a7b5f463c4935337a8489bf7ad8de3839023183.jpg) | -
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/Ep47ov1iIAZEggAAepNiymkBOjdANUmV8FhlkmzPqGXTXg?e=xNoRAB) | WGv$@%du
- IssueCode | 157(与工作细胞第二季共用) | -
+ IssueCode | 157(与工作细胞第二季共用),151(多出集数) | -
 
 ## 简介
 [视频来源](https://www.bilibili.com/bangumi/media/md28231819/)  

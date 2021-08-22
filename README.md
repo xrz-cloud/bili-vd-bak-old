@@ -28,9 +28,11 @@ https://tp.xrzyun.top/bili-vd-bak/
 
 储存库 | 番剧总链接 | 密码
 :-----------: | :-----------: | :-----------:
+ 天翼云盘(备用国内源) | 完结后同步部分，若分享审核不通过则仅存在家庭盘不分享。详情见`库`中。 | - 
  OneDrive-E5-xrzyun.ml(**实时**) | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
  OneDrive-A1-od5t.me(定期同步) | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS 
  OneDrive-A1-ceo.co.ax(定期同步) | [跳转](https://mmitacnz2-my.sharepoint.com/:f:/g/personal/xrz_ceo_co_ax/Erq71dp4NDZJruxnEfy3ZWYBkGtaCVGEieoFpsqyaXZ2oA?e=NZsC5W) | rYMj!c@Z 
+ Google Drive(定期同步) | [跳转](https://drive.google.com/folderview?id=1Ug8qGeKRvgVxhsFwSaCLN1h7t8ttSjbw) | - 
  和彩云(随缘上传) | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP 
  GitHub(防挂国外源) | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - 
  FileID/IssueCode/bdex(防挂国内源) | 资源链见`库`中,使用方法见教程。 | - 

@@ -2,6 +2,7 @@
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
+ 天翼云盘 | [二维码](https://images.weserv.nl/?url=https://i0.hdslb.com/bfs/article/dfde341356a9cf6f344398743acde582643dfbae.jpg) | -
  OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EnKe47XEu41Aj75Wfdibn-UBbmpQ-dKuS9IAyR2-YK35IA?e=y8z21W) | Th7.A%kQ
  IssueCode | 195 | -
 
