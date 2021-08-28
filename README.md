@@ -17,9 +17,11 @@ https://tp.xrzyun.top/bili-vd-bak/
 ```
 
 ### 工具
+#### Github
 
-> [Github直链加速1](https://gh.msx.workers.dev/)  
-[Github直链加速2](https://toolwa.com/github/)  
+> [Github加速1](https://gh.msx.workers.dev/)  
+[Github加速2](https://toolwa.com/github/)  
+[Github加速3](https://ghproxy.com/)
 *Tips: 你问我这是什么？就是下载目录中`https://github.com/`开头的直链，慢就用这个吧。挂了自己找，网上一大堆。*
 
 <-- 详情请参考左侧文档目录。
