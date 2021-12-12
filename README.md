@@ -9,7 +9,7 @@ API文档在写了，勿催。老子懒得改了！
 (2021.7.16追加)天翼云盘，随机分享，大多存在家庭盘，原因一个是难过审核，还有个人盘空间不够。  
 (2021.10.31追加)GitHub不再上传新视频备份，目前已有的保留，但有可能删除。视频情况请以实际情况为准。  
 (2021.10.31追加)Google Drive的文件被删了，不再继续使用其分享。  
-(2021.12.11追加)OneDrive-A1-ceo.co.ax域没了，不再继续使用其分享。  
+(2021.12.12修改)OneDrive-A1-ceo.co.ax域没了，不再继续使用其分享。 新增OneDrive-E5-nv.cx（新加坡）。   
 OneDrive之后会上传部分1080P+画质视频，不带特殊标记`.flv`通常为1080P，`.mp4`为其它站收集的通常是720P。  
 送个不知道是谁分享的资源 => [OneDrive分享](https://oxsayacid8-my.sharepoint.com/:f:/g/personal/liuli07_xooo_ml/Eq8VSHBbn2pNsV2HDcouTNkBO4_U7CjaF4h6l6f2OomEnQ?e=Mncb0M)  
 
@@ -34,14 +34,15 @@ https://tp.xrzyun.top/bili-vd-bak/
 
 储存库 | 番剧总链接 | 密码
 :-----------: | :-----------: | :-----------:
- 天翼云盘(备用国内源) | 完结后同步部分，若分享审核不通过则仅存在家庭盘不分享。详情见`库`中。 | - 
- OneDrive-E5-xrzyun.ml(**实时**，最全) | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
- OneDrive-A1-od5t.me(定期同步) | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS 
+ 天翼云盘(备用国内源)（中国大陆电信） | 完结后同步部分，若分享审核不通过则仅存在家庭盘不分享。详情见`库`中。 | - 
+ OneDrive-E5-xrzyun.ml(**实时**，最全)（亚太2） | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm 
+ OneDrive-A1-od5t.me(定期同步)（香港/亚太2） | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS 
+ OneDrive-E5-nv.cx(定期同步)（新加坡） | [跳转](https://nvcx-my.sharepoint.com/:f:/g/personal/xrz_nv_cx/EnPPWkFAtKtFsN_Wp64p2j4BCpNm4wn5W6vAIWnlDI_sCw?e=PX49Kd) | gA*v)G$) 
  ~~OneDrive-A1-ceo.co.ax(定期同步)~~ | 炸了~~[跳转](https://mmitacnz2-my.sharepoint.com/:f:/g/personal/xrz_ceo_co_ax/Erq71dp4NDZJruxnEfy3ZWYBkGtaCVGEieoFpsqyaXZ2oA?e=NZsC5W)~~ | rYMj!c@Z 
  ~~Google Drive(定期同步)~~ | 炸了~~[跳转](https://drive.google.com/folderview?id=1Ug8qGeKRvgVxhsFwSaCLN1h7t8ttSjbw)~~ | - 
- 和彩云(随缘上传) | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP 
- GitHub(防挂国外源) | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - 
- FileID/IssueCode/bdex(防挂国内源) | 资源链见`库`中,使用方法见教程。 | - 
+ 和彩云(随缘上传)（中国大陆移动） | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP 
+ GitHub(防挂国外源)（全球亚马逊） | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - 
+ FileID/IssueCode/bdex(防挂国内源)（腾讯云/B站相簿） | 资源链见`库`中,使用方法见教程。 | - 
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
