@@ -1,6 +1,8 @@
 <!-- /_sidebar.md -->
 
 * [首页](/)
+* [教程](/教程/)
+* [日志](/日志/)
 * [库](/库/)
   * [Little Busters](/库/Little%20Busters/)
     * [库特wafter](/库/Little%20Busters/库特wafter/)
@@ -63,5 +65,3 @@
   * [Ｄｒ．ＳＴＯＮＥ　石纪元](/库/%EF%BC%A4%EF%BD%92%EF%BC%8E%EF%BC%B3%EF%BC%B4%EF%BC%AF%EF%BC%AE%EF%BC%A5%E3%80%80%E7%9F%B3%E7%BA%AA%E5%85%83/)
     * [第一季](/库/%EF%BC%A4%EF%BD%92%EF%BC%8E%EF%BC%B3%EF%BC%B4%EF%BC%AF%EF%BC%AE%EF%BC%A5%E3%80%80%E7%9F%B3%E7%BA%AA%E5%85%83/第一季/)
     * [第二季](/库/%EF%BC%A4%EF%BD%92%EF%BC%8E%EF%BC%B3%EF%BC%B4%EF%BC%AF%EF%BC%AE%EF%BC%A5%E3%80%80%E7%9F%B3%E7%BA%AA%E5%85%83/第二季/)
-* [教程](/教程/)
-* [日志](/日志/)
