@@ -45,7 +45,7 @@ https://tp.xrzyun.top/bili-vd-bak/
  和彩云 | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP | 随缘上传 | 中国大陆移动
  GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - | 番剧更新到2021.7，不再更新 | 防挂国外源，全球亚马逊
  FileID/IssueCode | 详情见`库`中。 | - | 资源链见`库`中,使用方法见教程。 | 防挂国内源，腾讯云，ap-shanghai
- bdex | 详情见`库`中。 | - | - | B站相簿分片上传，使用方法见`日志`中项目GitHub/`教程`中。 | 中国大陆
+ bdex | 详情见`库`中。 | - | B站相簿分片上传，使用方法见`日志`中项目GitHub/`教程`中。 | 中国大陆
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
 如有侵权，请发送信息至邮箱 1937019695@qq.com ，将尽快删除。  
