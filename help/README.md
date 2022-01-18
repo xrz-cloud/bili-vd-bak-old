@@ -3,6 +3,7 @@
 [FileId及IssueCode使用教程](/help/fileid&issuecode)  
 [cid使用教程](/help/cid)  
 [META URL使用教程](/help/metaurl)  
+[B站缓存播放问题](/help/bili-play-QA)
 [在线观看、弹幕播放](/help/watch-online)  
 [OPEN-API](/help/openapi)  
 # 帮助编写文档
