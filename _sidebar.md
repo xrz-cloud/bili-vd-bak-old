@@ -3,7 +3,7 @@
 * [首页](/)
 * [教程&帮助](/help/)
 * [日志](/log/)
-* [lib](/库/)
+* [库](/lib/)
   * [Little Busters](/lib/Little%20Busters/)
     * [库特wafter](/lib/Little%20Busters/库特wafter/)
   * [Re：从零开始的异世界生活](/lib/Re：从零开始的异世界生活/)
