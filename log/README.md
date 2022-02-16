@@ -1,3 +1,11 @@
+### 2022.2.16
+2022元宵节快乐！  
+1. (存储通知）新增OneDrive-Teams Exploratory-savef.onmicrosoft.com域。  
+Teams Exploratory许可证2021之前订阅的通常永久，此号有被回收风险。  
+2. 利用mover.io定时传输功能，每周定时同步各OneDrive。  
+同步方向：由`xrzyun.ml`域下`share`文件夹向`od5t.me`、`nv.cx`、`savef.onmicrosoft.com`域下`bak`文件夹。  
+主页分享路径为`share/bangumi`或`bak/bangumi`。  
+
 ### 2022.1.19
 2022新年快乐！  
 完善404页面，更好的指引。  

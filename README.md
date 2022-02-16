@@ -7,6 +7,7 @@
 使用本站即视为同意[声明](#声明)中内容。  
 
 ## 公告
+中考冲刺，可能7月前不会再更新了！  
 1. 随缘更新整理维护。  
 2. GitHub不会在`库`中放链接。  
 3. API文档鸽了。  
@@ -46,9 +47,10 @@ https://tp.xrzyun.top/bili-vd-bak/
 储存库 | 番剧总链接 | 密码 | 备注 | 地区
 :-----------: | :-----------: | :-----------: | :-----------: | :-----------:
  天翼云盘 | 详情见`库`中。 | - | 完结后同步部分，若分享审核不通过则仅存在家庭盘不分享。 | 备用国内源，中国大陆电信
- OneDrive-E5-xrzyun.ml(**实时**，最全) | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm | **实时**，最全 | 亚太2
- OneDrive-A1-od5t.me | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS | 定期同步 | 香港/亚太2
- OneDrive-E5-nv.cx | [跳转](https://nvcx-my.sharepoint.com/:f:/g/personal/xrz_nv_cx/EnPPWkFAtKtFsN_Wp64p2j4BCpNm4wn5W6vAIWnlDI_sCw?e=PX49Kd) | gA*v)G$) | 定期同步 | 新加坡
+ OneDrive-E5-xrzyun.ml(**实时**，最全) | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm | **实时**，最全，同步源 | 亚太2
+ OneDrive-A1-od5t.me | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS | 每周二07：00开始同步 | 香港/亚太2
+ OneDrive-E5-nv.cx | [跳转](https://nvcx-my.sharepoint.com/:f:/g/personal/xrz_nv_cx/EnPPWkFAtKtFsN_Wp64p2j4BCpNm4wn5W6vAIWnlDI_sCw?e=PX49Kd) | gA*v)G$) | 每周三07：00开始同步 | 新加坡
+ OneDrive-Teams Exploratory-savef.onmicrosoft.com | [跳转](https://savef-my.sharepoint.com/:f:/g/personal/xrzyun_savef_onmicrosoft_com/ErpTo9Dmu81EjnxBzP9hPYEBXffJfw4665bgFzNOMzd_9A?e=mCHywc) | pTQq#s8@ | 每周一07：00开始同步 | 未知
  ~~OneDrive-A1-ceo.co.ax~~ | 炸了~~[跳转](https://mmitacnz2-my.sharepoint.com/:f:/g/personal/xrz_ceo_co_ax/Erq71dp4NDZJruxnEfy3ZWYBkGtaCVGEieoFpsqyaXZ2oA?e=NZsC5W)~~ | rYMj!c@Z | 已不能使用~，定期同步~ | -
  ~~Google Drive~~ | 炸了~~[跳转](https://drive.google.com/folderview?id=1Ug8qGeKRvgVxhsFwSaCLN1h7t8ttSjbw)~~ | - | 已不能使用~，定期同步~ | -
  和彩云 | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP | 随缘上传 | 中国大陆移动
