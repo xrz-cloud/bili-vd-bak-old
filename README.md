@@ -22,7 +22,6 @@
 7. OneDrive：  
 (2021.12.12修改)OneDrive-A1-ceo.co.ax域没了，不再继续使用其分享。 新增OneDrive-E5-nv.cx（新加坡）。  
 OneDrive之后会上传部分1080P+画质视频，不带特殊标记`.flv`通常为1080P，`.mp4`为其它站收集的通常是720P。  
-送个不知道是谁分享的资源 => [OneDrive分享](https://oxsayacid8-my.sharepoint.com/:f:/g/personal/liuli07_xooo_ml/Eq8VSHBbn2pNsV2HDcouTNkBO4_U7CjaF4h6l6f2OomEnQ?e=Mncb0M)  
 
 ## 导航
 > [跳转本文链接](https://tp.xrzyun.top/bili-vd-bak/)(请复制,防删专用,本文档随时转移)
@@ -51,7 +50,6 @@ https://tp.xrzyun.top/bili-vd-bak/
  OneDrive-A1-od5t.me | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS | 每周二07：00开始同步 | 香港/亚太2
  OneDrive-E5-nv.cx | [跳转](https://nvcx-my.sharepoint.com/:f:/g/personal/xrz_nv_cx/EnPPWkFAtKtFsN_Wp64p2j4BCpNm4wn5W6vAIWnlDI_sCw?e=PX49Kd) | gA*v)G$) | 每周三07：00开始同步 | 新加坡
  OneDrive-Teams Exploratory-savef.onmicrosoft.com | [跳转](https://savef-my.sharepoint.com/:f:/g/personal/xrzyun_savef_onmicrosoft_com/ErpTo9Dmu81EjnxBzP9hPYEBXffJfw4665bgFzNOMzd_9A?e=mCHywc) | pTQq#s8@ | 每周一07：00开始同步 | 未知
- ~~OneDrive-A1-ceo.co.ax~~ | 炸了~~[跳转](https://mmitacnz2-my.sharepoint.com/:f:/g/personal/xrz_ceo_co_ax/Erq71dp4NDZJruxnEfy3ZWYBkGtaCVGEieoFpsqyaXZ2oA?e=NZsC5W)~~ | rYMj!c@Z | 已不能使用~，定期同步~ | -
  ~~Google Drive~~ | 炸了~~[跳转](https://drive.google.com/folderview?id=1Ug8qGeKRvgVxhsFwSaCLN1h7t8ttSjbw)~~ | - | 已不能使用~，定期同步~ | -
  和彩云 | [跳转](https://caiyun.139.com/m/i?185Cjf7uOWRMx) | hdqP | 随缘上传 | 中国大陆移动
  GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - | 番剧更新到2021.7，不再更新 | 防挂国外源，全球亚马逊
