@@ -22,6 +22,8 @@
 7. OneDrive：  
 (2021.12.12修改)OneDrive-A1-ceo.co.ax域没了，不再继续使用其分享。 新增OneDrive-E5-nv.cx（新加坡）。  
 OneDrive之后会上传部分1080P+画质视频，不带特殊标记`.flv`通常为1080P，`.mp4`为其它站收集的通常是720P。  
+8. CODING:
+其下FileID,IssueCode,由于其自身API原因，下载链接有效10s，但缓存超过10s，无法及时刷新链接。处于半残状态。  
 
 ## 导航
 > [跳转本文链接](https://tp.xrzyun.top/bili-vd-bak/)(请复制,防删专用,本文档随时转移)
