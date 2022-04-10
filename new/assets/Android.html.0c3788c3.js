@@ -1,0 +1,1 @@
+const e={key:"v-28f3901f",path:"/help/fileid&issuecode/FileID/Android.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"help/fileid&issuecode/FileID/Android.md"};export{e as data};

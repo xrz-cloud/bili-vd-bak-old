@@ -10,6 +10,9 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
 <body>
+  <nav>
+    <a href="/new/">体验新版文档</a>
+  </nav>
   <div id="app">正在为您努力加载中...</div>
   <script>
     window.$docsify = {
@@ -25,7 +28,8 @@
       alias: {
         '/库/(.*)': '/lib/$1',
         '/日志/(.*)': '/log/$1',
-        '/教程/(.*)': '/help/$1'
+        '/教程/(.*)': '/help/$1',
+        '../': './'
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       search: 'auto',

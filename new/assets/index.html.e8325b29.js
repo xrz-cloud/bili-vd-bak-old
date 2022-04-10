@@ -1,0 +1,1 @@
+const t={key:"v-14ac19b5",path:"/help/",title:"bili-vd-bak\u5E2E\u52A9",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"help/README.md"};export{t as data};
