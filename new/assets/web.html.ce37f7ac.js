@@ -1,1 +1,0 @@
-const e={key:"v-f0455e8c",path:"/help/fileid&issuecode/FileID/web.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"help/fileid&issuecode/FileID/web.md"};export{e as data};

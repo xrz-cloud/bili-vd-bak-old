@@ -1,1 +1,0 @@
-const e={key:"v-380577c1",path:"/help/fileid&issuecode/FileID/IOS.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"help/fileid&issuecode/FileID/IOS.md"};export{e as data};

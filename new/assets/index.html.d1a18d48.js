@@ -1,0 +1,1 @@
+const e={key:"v-14ac19b5",path:"/help/",title:"bili-vd-bak\u5E2E\u52A9",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649596076e3,contributors:[{name:"xrz-cloud",email:"3545270592@qq.com",commits:1}]},filePathRelative:"help/README.md"};export{e as data};
