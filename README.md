@@ -69,6 +69,7 @@ https://tp.xrzyun.top/bili-vd-bak/
  GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - | 番剧更新到2021.7，不再更新 | 防挂国外源，全球亚马逊
  FileID/IssueCode | 详情见`库`中。 | - | 资源链见`库`中,使用方法见教程。 | 防挂国内源，腾讯云，ap-shanghai
  bdex | 详情见`库`中。 | - | B站相簿分片上传，使用方法见`日志`中项目GitHub/`教程`中。 | 中国大陆
+ drc | `ccr.ccs.tencentyun.com/bili-vd-bak/video` | - | 详情见[帮助](./help/drc) | 中国广州
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  

@@ -1,3 +1,6 @@
+### 2022.4.19
+使用 [Docker Register Cloud](https://github.com/xausky/DockerRegisterCloud) 项目的方法储存文件。
+
 ### 2022.4.10
 使用VuePress构建新文档。  
 
