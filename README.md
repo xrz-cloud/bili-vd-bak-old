@@ -1,17 +1,5 @@
 # 首页
-
-::: warning
-新版文档正在测试中。  
-为兼容两版文档，可能出现难以预料的错误以及类似这样的重复文字。  
-重复原因是为了便于兼容不同主题。  
-:::
-
-!> [新版文档](/new/ ':ignore')正在测试中。  
-为兼容两版文档，可能出现难以预料的错误以及类似这样的重复文字。  
-重复原因是为了便于兼容不同主题。  
-
 本站可以查询部分番剧弹幕资源，全由手动收集而来。  
-务必查看[如果显示404怎么做?](./404)  
 采用多储存保存番剧资源，总链接见[此处](#下载网盘)。  
 推荐使用OneDrive下载链接，仅几个资源只在GitHub上。别处资源均少于OneDrive。  
 查看番剧详情请点击右下角 **≡** 图标展开侧边栏以查看。  
@@ -34,7 +22,11 @@
 7. OneDrive：  
 (2021.12.12修改)OneDrive-A1-ceo.co.ax域没了，不再继续使用其分享。 新增OneDrive-E5-nv.cx（新加坡）。  
 OneDrive之后会上传部分1080P+画质视频，不带特殊标记`.flv`通常为1080P，`.mp4`为其它站收集的通常是720P。  
-8. CODING:
+提示：  
+- B-CML资源来自B站缓存。  
+- 其它资源下载自[ACG.RIP](https://acg.rip/)。  
+- 仅上传带有 中文(简体)/中文(繁體) 字幕视频，或目录下有同名外挂字幕文件。  
+8. CODING:  
 其下FileID,IssueCode,由于其自身API原因，下载链接有效10s，但缓存超过10s，无法及时刷新链接。处于半残状态。  
 
 ## 导航
@@ -69,7 +61,6 @@ https://tp.xrzyun.top/bili-vd-bak/
  GitHub | [源链](https://github.com/xrz-cloud/bili-vd-bak/releases) [加速链1](https://hub.fastgit.org/xrz-cloud/bili-vd-bak/releases) | - | 番剧更新到2021.7，不再更新 | 防挂国外源，全球亚马逊
  FileID/IssueCode | 详情见`库`中。 | - | 资源链见`库`中,使用方法见教程。 | 防挂国内源，腾讯云，ap-shanghai
  bdex | 详情见`库`中。 | - | B站相簿分片上传，使用方法见`日志`中项目GitHub/`教程`中。 | 中国大陆
- drc | `ccr.ccs.tencentyun.com/bili-vd-bak/video` | - | 详情见[帮助](./help/drc) | 中国广州
  
 ## 声明
 此文档库资源由互联网收集而来，仅供学习使用，请于下载后24小时内删除。  
