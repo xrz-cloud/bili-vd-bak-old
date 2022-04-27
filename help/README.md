@@ -1,5 +1,7 @@
-[返回首页](/)  
+[返回首页](../)  
+
 # bili-vd-bak帮助
+
 * [FileId及IssueCode使用教程](../help/fileid&issuecode)
   * [FileID | Android](../help/fileid&issuecode/FileID/Android)
   * [FileID | IOS](../help/fileid&issuecode/FileID/IOS)
@@ -12,5 +14,6 @@
 * [OPEN-API](../help/openapi)
 
 # 帮助编写文档
+
 [bili-vd-bak 文档库 on Github](https://github.com/xrz-cloud/bili-vd-bak/tree/wiki/)  
 [bili-vd-bak 帮助 on Github(此文档)](https://github.com/xrz-cloud/bili-vd-bak/tree/wiki)  

@@ -1,13 +1,13 @@
+const { defaultTheme } = require('vuepress')
+const { searchPlugin } = require('@vuepress/plugin-search')
 module.exports = {
   // 站点配置
-  base: '/new/',
+  base: '/beta/',
   lang: 'zh-CN',
   title: 'bili-vd-bak',
   description: '这是一个 备份各种(站长想备份的)资源 站点',
-
   // 主题和它的配置
-  theme: '@vuepress/theme-default',
-  themeConfig: {
+  theme: defaultTheme({
     navbar: [
       {
         text: '切回旧版文档',
@@ -35,7 +35,7 @@ module.exports = {
           link: '/',
         },
         {
-          text: '库',
+          text: '库(番剧导航)',
           link: '/lib/',
         },
         {
@@ -45,18 +45,19 @@ module.exports = {
       ],
     },
     editLinkText: '在GitHub上修改此页',
-    docsBranch: 'wiki',
-    docsDir: 'docs',
+    lastUpdatedText: '最近更新时间',
+    contributorsText: '贡献者',
+    docsRepo: 'https://github.com/xrz-cloud/bili-vd-bak',
+    docsBranch: 'wiki-pre',
+    docsDir: '',
+    editLinkPattern: ':repo/blob/:branch/:path',
     notFound: [`这个页面火星了...`],
     backToHome: '返回首页',
-  },
+  }),
   plugins: [
-    [
-      '@vuepress/plugin-search',
-      {
-        // 允许搜索 Frontmatter 中的 `tags`
-        getExtraFields: (page) => page.frontmatter.tags ?? [],
-      },
-    ],
+    searchPlugin({
+      // 允许搜索 Frontmatter 中的 `tags`
+      getExtraFields: (page) => page.frontmatter.tags ?? [],
+    }),
   ],
 }

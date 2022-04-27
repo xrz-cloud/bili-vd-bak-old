@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh">
+
 <head>
   <meta charset="UTF-8">
   <title>bili-vd-bak</title>
@@ -9,14 +10,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
+
 <body>
   <nav>
-    <a href="/new/">体验新版文档</a>
+    <a href="/beta/">体验新版文档</a>
   </nav>
   <div id="app">正在为您努力加载中...</div>
   <script>
     window.$docsify = {
-      repo: 'https://github.com/xrz-cloud/bili-vd-bak/tree/wiki/',
+      repo: 'https://github.com/xrz-cloud/bili-vd-bak/tree/wiki-pre/',
       loadSidebar: true,
       noEmoji: true,
       cornerExternalLinkTarget: '_blank',
@@ -33,6 +35,8 @@
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       search: 'auto',
+      placeholder: '搜索',
+      noData: '找不到结果!'
     };
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
@@ -46,4 +50,5 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 </body>
+
 </html>
