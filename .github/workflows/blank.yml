@@ -46,7 +46,7 @@ jobs:
           rm './lib/README.md'
           cp './lib/_sidebar.md' './lib/README.md'
           rm -rf './docs/lib'
-          cp -r './lib ./docs/lib'
+          cp -r './lib' './docs/lib'
 
           rm -rf './docs/help'
           cp -r './help' './docs/help'
