@@ -1,2 +1,2 @@
 # 新地址
-https://help.xrzyun.top
+https://bili-vd-bak.xrzyun.top/#/help/
