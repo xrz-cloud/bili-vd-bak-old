@@ -14,6 +14,6 @@ cp './README.md' './docs/README.md'
 rm -rf './docs/404.md'
 cp './404.md' './docs/404.md'
 
-yarn docs:build
+pnpm docs:build
 rm -rf './beta'
 mv './docs/.vuepress/dist' './beta'

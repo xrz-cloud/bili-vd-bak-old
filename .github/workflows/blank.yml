@@ -37,6 +37,7 @@ jobs:
 
       # 如果缓存没有命中，安装依赖
       - name: Install dependencies
+        uses: pnpm/action-setup@v2
         if: steps.pnpm-cache.outputs.cache-hit != 'true'
         run: pnpm --frozen-lockfile
 

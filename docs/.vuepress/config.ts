@@ -1,6 +1,7 @@
+import { defineUserConfig } from 'vuepress'
 const { defaultTheme } = require('vuepress')
 const { searchPlugin } = require('@vuepress/plugin-search')
-module.exports = {
+export default defineUserConfig({
   // 站点配置
   base: '/beta/',
   lang: 'zh-CN',
@@ -31,17 +32,17 @@ module.exports = {
     repo: 'xrz-cloud/bili-vd-bak',
     sidebar: {
       '/': [{
-          text: '首页',
-          link: '/',
-        },
-        {
-          text: '库(番剧导航)',
-          link: '/lib/',
-        },
-        {
-          text: '如果显示404怎么做?',
-          link: '/404'
-        }
+        text: '首页',
+        link: '/',
+      },
+      {
+        text: '库(番剧导航)',
+        link: '/lib/',
+      },
+      {
+        text: '如果显示404怎么做?',
+        link: '/404'
+      }
       ],
     },
     editLinkText: '在GitHub上修改此页',
@@ -60,4 +61,4 @@ module.exports = {
       getExtraFields: (page) => page.frontmatter.tags ?? [],
     }),
   ],
-}
+})
