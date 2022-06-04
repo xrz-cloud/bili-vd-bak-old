@@ -1,6 +1,8 @@
 import { defineUserConfig } from 'vuepress'
 const { defaultTheme } = require('vuepress')
 const { searchPlugin } = require('@vuepress/plugin-search')
+const { pwaPlugin } = require('@vuepress/plugin-pwa')
+const { pwaPopupPlugin } = require('@vuepress/plugin-pwa-popup')
 export default defineUserConfig({
   // 站点配置
   base: '/beta/',
@@ -57,8 +59,24 @@ export default defineUserConfig({
   }),
   plugins: [
     searchPlugin({
+      locales: {
+        '/': {
+          placeholder: '搜索',
+        },
+      },
+      hotKeys: ['/', 's', 'Meta'],
       // 允许搜索 Frontmatter 中的 `tags`
       getExtraFields: (page) => page.frontmatter.tags ?? [],
+    }),
+    pwaPlugin(),
+    pwaPopupPlugin({
+      // 配置项
+      locales: {
+        '/': {
+          message: '文档已更新，发现新内容可用',
+          buttonText: '刷新',
+        },
+      }
     }),
   ],
 })
