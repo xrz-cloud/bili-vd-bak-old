@@ -7,7 +7,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
-    "all:dev": "docsify serve ./"
+    "all:dev": "docsify serve ./",
+    "build": "echo 'ok'"
   },
   "license": "MIT",
   "devDependencies": {
