@@ -68,6 +68,7 @@ jobs:
           mv './docs/.vuepress/dist' './beta'
 
           rm -rf './pnpm-lock.yaml'
+          rm -rf './package.json'
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
