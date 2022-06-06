@@ -27,6 +27,10 @@ export default defineUserConfig({
             text: '日志',
             link: '/log/',
           },
+          {
+            text: '网站状态',
+            link: '/status.md',
+          },
         ],
       },
     ],

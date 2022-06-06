@@ -13,6 +13,8 @@ rm -rf './docs/README.md'
 cp './README.md' './docs/README.md'
 rm -rf './docs/404.md'
 cp './404.md' './docs/404.md'
+rm -rf './docs/status.md'
+cp './status.md' './docs/status.md'
 
 pnpm docs:build
 rm -rf './beta'
