@@ -6,7 +6,11 @@ bili-vd-bak.xrzyun.top | Vercel | - | 主站
 cf.bili-vd-bak.xrzyun.top | CloudFlare Pages | - | -
 netlify.bili-vd-bak.xrzyun.top | Netlify | - | -
 xrz.cool | Vercel | 2022-11-06 | 指向bili-vd-bak.xrzyun.top
+bili-vd-bak.xrzyun.eu.org | CloudFlare Pages | - | 指向cf.bili-vd-bak.xrzyun.top
 tp.xrzyun.top/bili-vd-bak/ | GitHub Pages | - | 指向bili-vd-bak主站
+bili-vd-bak.vercel.app | Vercel | - | 指向bili-vd-bak.xrzyun.top
+bili-vd-bak.pages.dev | CloudFlare Pages | - | 指向cf.bili-vd-bak.xrzyun.top
+bili-vd-bak.netlify.app | Netlify | - | 指向netlify.bili-vd-bak.xrzyun.top
 
 # 下载&网盘
 
