@@ -1,18 +1,22 @@
 # bili-vd-bak网站状态
 
-网址 | 部署 | 过期时间 | 备注
+!> 本页面使用了[Beta版](/bata/index.html ':ignore')特性，请前往[此处](/bata/status.html ':ignore')查看。  
+
+## 文档托管状态
+
+网址 | 部署 | 过期时间&倒计时 | 备注
 :---: | :---: | :---: | :---:
 bili-vd-bak.xrzyun.top | Vercel | - | 主站
 cf.bili-vd-bak.xrzyun.top | CloudFlare Pages | - | -
 netlify.bili-vd-bak.xrzyun.top | Netlify | - | -
-xrz.cool | Vercel | 2022-11-06 | 指向bili-vd-bak.xrzyun.top
+xrz.cool | Vercel | 距2022-11-06还有{{ HT1 }} | 指向bili-vd-bak.xrzyun.top
 bili-vd-bak.xrzyun.eu.org | CloudFlare Pages | - | 指向cf.bili-vd-bak.xrzyun.top
 tp.xrzyun.top/bili-vd-bak/ | GitHub Pages | - | 指向bili-vd-bak主站
 bili-vd-bak.vercel.app | Vercel | - | 指向bili-vd-bak.xrzyun.top
 bili-vd-bak.pages.dev | CloudFlare Pages | - | 指向cf.bili-vd-bak.xrzyun.top
 bili-vd-bak.netlify.app | Netlify | - | 指向netlify.bili-vd-bak.xrzyun.top
 
-# 下载&网盘
+## 下载&网盘
 
 左右滑动以查看。
 
@@ -29,3 +33,27 @@ bili-vd-bak.netlify.app | Netlify | - | 指向netlify.bili-vd-bak.xrzyun.top
  FileID/IssueCode | 详情见`库`中。 | - | 资源链见`库`中,使用方法见教程。 | 防挂国内源，腾讯云，ap-shanghai
  bdex | 详情见`库`中。 | - | B站相簿分片上传，使用方法见`日志`中项目GitHub/`教程`中。 | 中国大陆
  drc | `ccr.ccs.tencentyun.com/bili-vd-bak/video` | - | 详情见[帮助](./help/drc) | 中国广州
+
+<script setup>
+import { h, ref, setDevtoolsHook } from 'vue'
+
+const ET = {
+  'xrz.cool': '2022-11-06 00:00:00'
+}
+const HT1 = ref(0)
+function CT(t) {
+  var nowTime = new Date();//获取当前时间
+  //创建目标日期
+  var endTime = new Date(t);
+  var seconds = parseInt((endTime.getTime() - nowTime.getTime()) / 1000);//两个时间点的时间差(秒)
+  var dd = parseInt(seconds / 3600 / 24);//得到天数
+  var hh = parseInt(seconds / 3600 % 24);//小时
+  var mm = parseInt(seconds / 60 % 60);//分钟
+  var ss = parseInt(seconds % 60);//秒
+  return [dd, hh, mm, ss]
+}
+setInterval(function () {
+  let t = CT(ET['xrz.cool'])
+  HT1.value = t[0] + "天" + t[1] + "小时" + t[2] + "分钟" + t[3] + "秒"
+}, 1000)
+</script>

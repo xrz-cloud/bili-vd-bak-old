@@ -47,7 +47,7 @@ export default defineUserConfig({
       },
       {
         text: '如果显示404怎么做?',
-        link: '/404'
+        link: '/404.md'
       }
       ],
     },
