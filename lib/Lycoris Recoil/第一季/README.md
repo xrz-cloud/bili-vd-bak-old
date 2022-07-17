@@ -1,11 +1,11 @@
-# 街角魔族 第二季
+# Lycoris Recoil 第一季
 
 ## 下载
 
 储存 | 链接 | 密码
 :----------- | :-----------: | -----------:
- OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/El7gEdaO_XpKsL70U4trcq0BCYVxt7MgrW-x4yfZXKYOyg?e=6a8lgv) | NnE28ZG)
- 阿里云盘 | [跳转](https://www.aliyundrive.com/s/Ym6pRBKfsgc) | r99x
+ OneDrive | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EqmZXP1NlHtJg7PDpgQfmuQB_5LGlwg9uZdJum58Eo8yYw?e=lJQXuZ) | H4!5KNA%
+ 阿里云盘 | [跳转](https://www.aliyundrive.com/s/fsj644qGtKP) | fc7x
 
 ## 提示
 

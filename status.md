@@ -23,6 +23,7 @@ bili-vd-bak.netlify.app | Netlify | - | 指向netlify.bili-vd-bak.xrzyun.top
 储存库 | 番剧总链接 | 密码 | 备注 | 地区
 :-----------: | :-----------: | :-----------: | :-----------: | :-----------:
  天翼云盘 | 详情见`库`中。 | - | 完结后同步部分，若分享审核不通过则仅存在家庭盘不分享。 | 备用国内源，中国大陆电信
+ 阿里云盘 | 详情见`库`中。 | - | 部分实时同步，其它定时同步 | 中国大陆
  OneDrive-E5-xrzyun.ml(**实时**，最全) | [跳转](https://xrzcloud-my.sharepoint.com/:f:/g/personal/xrz_xrzyun_ml/EualmF7RdnRFpA_WoA1zPxkB-gE8GuaCUWSPftNEeW6dXQ?e=goU1cd) | f4jm | **实时**，最全，同步源 | 亚太2
  OneDrive-A1-od5t.me | [跳转](https://juga-my.sharepoint.com/:f:/g/personal/xrz_od5t_me/EsX_FbQIKKxHt88tb_cuPRIBISJ7y3ebd1kQZn-qeLD9vA?e=kj43mr) | _^t&U#NS | 每周二07：00开始同步 | 香港/亚太2
  OneDrive-E5-nv.cx | [跳转](https://nvcx-my.sharepoint.com/:f:/g/personal/xrz_nv_cx/EnPPWkFAtKtFsN_Wp64p2j4BCpNm4wn5W6vAIWnlDI_sCw?e=PX49Kd) | gA*v)G$) | 每周三07：00开始同步 | 新加坡
