@@ -6,10 +6,11 @@
 
 网址 | 部署 | 过期时间&倒计时 | 备注
 :---: | :---: | :---: | :---:
+b23.xrzyun.top | Vercel | - | 新文档，自动更新
 bili-vd-bak.xrzyun.top | Vercel | - | 主站
 cf.bili-vd-bak.xrzyun.top | CloudFlare Pages | - | -
 netlify.bili-vd-bak.xrzyun.top | Netlify | - | -
-xrz.cool | Vercel | 距2022-11-06还有{{ HT1 }} | 指向bili-vd-bak.xrzyun.top
+xrz.cool **已弃用** | Vercel | 距2022-11-06还有{{ HT1 }} | 指向bili-vd-bak.xrzyun.top
 bili-vd-bak.xrzyun.eu.org | CloudFlare Pages | - | 指向cf.bili-vd-bak.xrzyun.top
 tp.xrzyun.top/bili-vd-bak/ | GitHub Pages | - | 指向bili-vd-bak主站
 bili-vd-bak.vercel.app | Vercel | - | 指向bili-vd-bak.xrzyun.top
