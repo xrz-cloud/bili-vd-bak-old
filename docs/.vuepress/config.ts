@@ -17,6 +17,10 @@ export default defineUserConfig({
         link: '//tp.xrzyun.top/bili-vd-bak',
       },
       {
+        text: '自动更新文档',
+        link: '//b23.xrzyun.top',
+      },
+      {
         text: '其它',
         children: [
           {
