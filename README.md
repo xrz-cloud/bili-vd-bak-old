@@ -1,5 +1,6 @@
 # bili-vd-bak
-[跳转至wiki](https://github.com/xrz-cloud/bili-vd-bak/tree/wiki)  
+[WIKI on NOTION](https://bili-vd-bak.notion.site/b23-f3d8d201a8dc46f7b04a33c53ccf2da4)
+[跳转至WIKI](https://github.com/xrz-cloud/bili-vd-bak/tree/wiki)  
 [跳转至资源](https://github.com/xrz-cloud/bili-vd-bak/releases)  
 请备份此地址
 ```
